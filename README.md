@@ -88,9 +88,12 @@ FORCE_RPC=0                       # 1 = skip Jito completely
 EXTERNAL_WALLET="your_main_wallet_here"
 EXTERNAL_FEE_RESERVE_SOL=0.0005
 
-    🔒 Keep .env private and never commit it to GitHub.
----------------------------------------------------------------------
 
+---
+🔒 Keep .env private and never commit it to GitHub.
+
+
+## TL;DR:
 🚀 Usage
 1. Installation
 
