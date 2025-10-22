@@ -89,6 +89,7 @@ EXTERNAL_WALLET="your_main_wallet_here"
 EXTERNAL_FEE_RESERVE_SOL=0.0005
 
     🔒 Keep .env private and never commit it to GitHub.
+---------------------------------------------------------------------
 
 🚀 Usage
 1. Installation
