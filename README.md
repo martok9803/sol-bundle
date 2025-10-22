@@ -131,7 +131,7 @@ npm start
 | **Q** | Exit                 | Quit program                          |
 
 
-##🪙 Example Workflows
+## 🪙 Example Workflows
 
 ➤ Fund Wallets
 
