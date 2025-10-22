@@ -100,7 +100,7 @@ EXTERNAL_FEE_RESERVE_SOL=0.0005
 
 ```
 
-🚀 Usage
+## 🚀 Usage
 
 1️⃣ Installation
 
@@ -108,13 +108,13 @@ git clone git@github.com:martok9803/sol-bundle.git
 cd sol-bundle
 npm install
 cp .env.example .env
-# Edit .env with your mnemonic and RPC credentials
 
-2️⃣ Start the CLI
+
+## 2️⃣ Start the CLI
 
 npm start
 
-3️⃣ Interactive Menu
+## 3️⃣ Interactive Menu
 | Key   | Action               | Description                           |
 | ----- | -------------------- | ------------------------------------- |
 | **A** | Set Sub-Wallet Count | Choose number of sub-wallets (1–20)   |
@@ -131,7 +131,8 @@ npm start
 | **Q** | Exit                 | Quit program                          |
 
 
-🪙 Example Workflows
+##🪙 Example Workflows
+
 ➤ Fund Wallets
 
 Equal Split: Distribute remaining SOL evenly after reserving a buffer (e.g., 0.1 SOL).
@@ -156,7 +157,7 @@ Routing handled automatically.
 
 ----
 
-📜 License
+## 📜 License
 
 MIT License
 Copyright (c) 2025 martok9803
